@@ -7,3 +7,5 @@ Este repositório tem como objetivo centralizar diversos códigos escritos em Py
 **Bibliografia**:
 
 SWEIGART, A. **Automatize tarefas maçantes com Python**: Programaçnao prática para verdadeiros iniciantes. São Paulo, SP-Brasil: Novatec Editora Ltda., 2015.
+
+SWEIGART, Al. **Automate the Boring Stuff with Python**. Disponível em: <https://automatetheboringstuff.com> Acesso em: 28 de jan. de 2018
