@@ -2,7 +2,7 @@
 
 Este repositório tem como objetivo centralizar diversos códigos escritos em Python para facilitar meu dia-a-dia, e também alguns códigos didáticos que visa desenvolvimento profissional, ou apenas centralizar alguns códigos para consulta mesmo :]
 
-**OBS.**: Este repositório do GitHub não possui o intuito de divulgar ou disponibilizar códigos abordados nas respectivas bibliografias. E sim, a reprodução pessoal sobre o conhecimento obtido, esforçando para que seja os códigos aqui sejem autênticos.
+**OBS.**: Este repositório do GitHub não possui intuito em divulgar ou disponibilizar códigos apresentados da bibliografia. E sim, uma reprodução pessoal referente ao conhecimento obtido na leitura. Tendo esforço para que os códigos aqui sejem primordialmente autênticos.
 
 **Bibliografia**:
 
